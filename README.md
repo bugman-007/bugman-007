@@ -10,15 +10,6 @@
 </p>
 <hr>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=aditya-bansal-7&color=red" ></img>
-<a href="https://github.com/aditya-bansal-7"> <img src="https://img.shields.io/github/followers/aditya-bansal-7?label=follow&style=social"></img> </a>
-</p>
-
-<p align="center">
-  <a href="https://adityabansal.tech" target="_blank"> <img height=100 width=300 src="https://thumbs.dreamstime.com/b/portfolio-text-written-over-colorful-background-portfolio-business-texture-colorful-blocks-195693092.jpg"> </img> </a>
-</p>
-<hr>
 
 <details align="center"> 
   <summary>
