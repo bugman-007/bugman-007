@@ -10,11 +10,35 @@
 </p>
 <hr>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=300&color=00EBEB&center=true&random=true&width=500&lines=Software+Engineer;Data+Alchemist;Philosophy;Gardener;Poet;Painter;Potterhead" alt="Typing SVG"/>
+</div>
+
+<p>
+    Back in the day, I was totally clueless about coding in high school. Why bother with all those fancy lines just to say "hello world" when copy-pasting got the job done? But hey, times change! I've gone from mindlessly memorizing code to actually getting what's going on. Coding went from boring to a cool adventure. And screens? They used to be just for games, but now they're like portals to endless possibilities! Talk about a glow-up, right?
+<br><br>
+    From mastering Python, Java, C, to tinkering with Internet of things or web development languages like NodeJS, I'm constantly honing my skills to push boundaries and innovate. Whether I'm crunching numbers with <a href="https://github.com/namansnghl/SQLify">machine learning algorithms</a> or crafting a <a href="https://youtube.com/shorts/t36TyZs9H4g?si=kJ3ZES4msUqVkwO6">self parking car</a>, I'm fueled by a passion for problem-solving and a thirst for knowledge. Beyond the keyboard, you'll find me exploring the intricacies of psychology, hitting the gym for a solid workout, or engaging in spirited debates. Let's team up and bring some serious magic to the table!
+</p>
+
+<h2>🎯 I Live By</h2>
+<p><strong>Motto:</strong> "Do Something Amazing"<br><strong>Mission:</strong> Build technology that genuinely improves lives, one solution at a time.</p>
+
+<h2>💡 My Values</h2>
+<ul>
+  <li><strong>Stay Curious</strong>: The best ideas come from asking "what if?"</li>
+  <li><strong>Embrace Fear</strong>: If it scares me, I'm probably about to learn something valuable</li>
+  <li><strong>Lead by Example</strong>: Be the teammate you wish you had</li>
+  <li><strong>Question Everything</strong>: "Why?" is the most powerful debugging tool</li>
+  <li><strong>Truth Always Wins</strong>: "Choose" difficult honesty over comfortable lies. Silence is complicity.</li>
+  <li><strong>Stay Grounded</strong>: There's always someone who can teach me something new</li>
+  <li><strong>Finding Myself</strong>: Growth isn't just professional - it's spiritual. Know thyself.</li>
+</ul>
+
 
 <details align="center"> 
-  <summary>
-    <h3 align="center"> 👨🏻‍💻 &nbsp;About Me </h3>
-  </summary>
+
+    <h3 align="center">About Me </h3>
+
 
   
   💡 &nbsp; Hi there! I'm Bugman-007, a passionate **Frontend Developer** and an active **Open Source Contributor**. My journey in tech has been a blend of creating interactive web experiences and contributing to the open-source community. 
