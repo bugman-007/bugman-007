@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm bugman-007
 
-### Senior Full-Stack | WebGL | Mobile | AI Engineer
+### Senior Full-Stack | WebGL | Mobile | AI Engineer 
 
 
 I am a highly motivated and results-driven Full-Stack Developer with a passion for creating immersive, high-performance web experiences that drive business growth. 
