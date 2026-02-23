@@ -36,19 +36,6 @@
 - AWS/GCP/Azure (choose), Terraform (optional)
 - Observability: OpenTelemetry, Grafana/Prometheus (optional)
 
----
-
-## GitHub by the numbers (optional)
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
-
-<!-- Optional add-ons (use sparingly):
-- Streaks, trophies, visitor badges can be noisy; only add if you like the look.
--->
-
----
 
 ## Contact
 If you’re building **LLM apps**, **RAG/search**, or **AI product UX**, I’m happy to collaborate.  
