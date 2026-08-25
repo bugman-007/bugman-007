@@ -22,6 +22,11 @@ jobs:
           base: ""
           config_timezone: America/New_York
 
+          # PULL REQUEST STATES:
+          # Shows the ratio of open vs. merged PRs
+          plugin_followup: yes
+          plugin_followup_sections: pull-requests
+
           # KEEP COMMIT STATS:
           plugin_lines: yes
           plugin_lines_history_limit: 1
