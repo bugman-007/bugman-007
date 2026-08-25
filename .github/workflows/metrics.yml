@@ -16,9 +16,10 @@ jobs:
           user: bugman-007
           template: classic
           
-          # HIDE ACTIVITY: 
-          # Removed 'activity' from the base list.
-          base: header, metadata
+          # HIDE HEADER & BASE STATS:
+          # Setting this to empty ("") completely removes the avatar, 
+          # username, joined date, followers, and the footer.
+          base: ""
           config_timezone: America/New_York
 
           # KEEP COMMIT STATS:
@@ -26,6 +27,5 @@ jobs:
           plugin_lines_history_limit: 1
 
           # KEEP COMMIT CALENDAR:
-          # Leaves the 3D isometric graph and commit streaks intact
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
