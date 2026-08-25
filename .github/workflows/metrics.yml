@@ -16,16 +16,12 @@ jobs:
           user: bugman-007
           template: classic
           
-          # HIDE HEADER & BASE STATS:
-          # Setting this to empty ("") completely removes the avatar, 
-          # username, joined date, followers, and the footer.
-          base: header
+          # SHOW ACTIVITY, HIDE HEADER:
+          # Adding 'activity' brings back the Commits/PRs/Issues list.
+          # Leaving 'header' out keeps the avatar and joined date hidden.
+          # 'metadata' keeps the small "Last updated" footer at the bottom.
+          base: activity, metadata
           config_timezone: America/New_York
-
-          # PULL REQUEST STATES:
-          # Shows the ratio of open vs. merged PRs
-          plugin_followup: yes
-          plugin_followup_sections: pull-requests
 
           # KEEP COMMIT STATS:
           plugin_lines: yes
