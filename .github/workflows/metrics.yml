@@ -19,7 +19,7 @@ jobs:
           # HIDE HEADER & BASE STATS:
           # Setting this to empty ("") completely removes the avatar, 
           # username, joined date, followers, and the footer.
-          base: ""
+          base: header
           config_timezone: America/New_York
 
           # PULL REQUEST STATES:
