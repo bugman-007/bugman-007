@@ -16,11 +16,10 @@ jobs:
           user: bugman-007
           template: classic
           
-          # SHOW ACTIVITY, HIDE HEADER:
-          # Adding 'activity' brings back the Commits/PRs/Issues list.
-          # Leaving 'header' out keeps the avatar and joined date hidden.
-          # 'metadata' keeps the small "Last updated" footer at the bottom.
-          base: activity, metadata
+          # HIDE HEADER & BASE STATS:
+          # Setting this to empty ("") completely removes the avatar, 
+          # username, joined date, followers, and the footer.
+          base: ""
           config_timezone: America/New_York
 
           # KEEP COMMIT STATS:
