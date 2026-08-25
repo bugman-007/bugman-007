@@ -56,8 +56,7 @@ Whether it's web, mobile, or pure backend infrastructure, I like to experiment:
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bugman-007&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7&show_icons=true" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugman-007&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff&layout=compact" height="150" alt="Top Languages" />
+  <img src="github-metrics.svg" alt="BUGMAN Metrics" width="100%" />
 </div>
 
 ---
