@@ -56,7 +56,7 @@ Whether it's web, mobile, or pure backend infrastructure, I like to experiment:
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="github-metrics.svg" alt="BUGMAN Metrics" width="100%" />
+  <img src="github-metrics.svg" alt="BUGMAN Metrics" />
 </div>
 
 ---
